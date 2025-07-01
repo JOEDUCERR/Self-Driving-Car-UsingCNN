@@ -11,8 +11,8 @@ This project simulates a self-driving car using a Convolutional Neural Network (
 * CNN model trained to predict steering direction based on input images.
 * Trained model used to autonomously control the vehicle in the simulation.
 
-![Training Data](2.png)
-![Training Data](1.png)
+![Training Data2](2.png)
+![Training Data1](saveee.png)
 
 | Tool/Library            | Purpose                                |
 | ----------------------- | -------------------------------------- |
