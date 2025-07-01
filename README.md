@@ -12,7 +12,6 @@ This project simulates a self-driving car using a Convolutional Neural Network (
 * Trained model used to autonomously control the vehicle in the simulation.
 
 ![Training Data2](2.png)
-![Training Data1](saveee.png)
 
 | Tool/Library            | Purpose                                |
 | ----------------------- | -------------------------------------- |
@@ -22,3 +21,5 @@ This project simulates a self-driving car using a Convolutional Neural Network (
 | **Unity**               | Driving simulation and data collection |
 | **Pandas, NumPy**       | Data handling and manipulation         |
 | **Matplotlib, Seaborn** | Data visualization and analytics       |
+
+![Training Data1](saveee.png)
